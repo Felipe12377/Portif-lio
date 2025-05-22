@@ -24,3 +24,4 @@ if(parOuImpar == 0 ) {
     alert("o numero " + resultado + " é ímpar")
 }
 
+
