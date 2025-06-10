@@ -6,4 +6,9 @@ function inscrever(){
 
     equipes = contador / 3
     alert("Possui " + contador + " no campeonato." + " Possui " + equipes +  " equipes no campeonato")
+
+    if(equipes>= 4){
+        alert("e possivel formar a equipe para o campeonato")
+    }
+
 }
